@@ -1,0 +1,3 @@
+username : f_express
+
+Note: Sorry mam you've said to print the ticket whenever a user can but getting input from file of a particular row by searching contact num is barely possible.If i put in file A1 A2 Contact num then strlen values are 2 2 11 but if the string be A1A2contact num then strlen value stands for 15 and can't segregate the contact num.So i hope we need to learn it from you.Thank you.
